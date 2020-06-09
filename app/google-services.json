@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289460897468",
+    "firebase_url": "https://aditiconsultancy-f4226.firebaseio.com",
+    "project_id": "aditiconsultancy-f4226",
+    "storage_bucket": "aditiconsultancy-f4226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289460897468:android:bc65f7b98a71b87b9ef2b9",
+        "android_client_info": {
+          "package_name": "com.jeevansatya.githubsearcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289460897468-2fbcmlbj6jaakh76u8rnlfd4oobdevj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeevansatya.githubsearcher",
+            "certificate_hash": "81e913176772be023494b575d5a20c8be006b801"
+          }
+        },
+        {
+          "client_id": "289460897468-qdbdj97f8qlpf7kv4ubruofdd1gosg4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRnUojl4IMAjDucUtjhDpyjTXk8AgeGN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289460897468-qdbdj97f8qlpf7kv4ubruofdd1gosg4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

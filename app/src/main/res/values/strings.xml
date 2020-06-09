@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubSearcher</string>
+    <string name="web_client_id">289460897468-qdbdj97f8qlpf7kv4ubruofdd1gosg4v.apps.googleusercontent.com</string>
+    <string name="logout">Logout</string>
+    <string name="skip_this_step">Skip this step</string>
+    <string name="click_me_to_try_again">Click me to try again!</string>
+</resources>
